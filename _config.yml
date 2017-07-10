@@ -16,6 +16,6 @@ author: Ridge Hamre
 github_username:  Ridge-Hamre
 paginate: 5
 
-gems: [jekyll-paginate, kramdown]
+plugins: [jekyll-paginate, kramdown]
 # Build settings
 markdown: kramdown
