@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Science of Ridge"
-date:   2016-03-30 19:45:31 +0530
-categories: science
-author: "Ridge Hamre"
----
-"I treat quesadillas as currency." Ridge was born on July 31st 1995.
